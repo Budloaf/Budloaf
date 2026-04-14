@@ -1,5 +1,5 @@
 # Who am I?
-My name is Hayden Berry. I graduated in May 2025 from Lipscomb University with a B.S. in Computer Engineering. You can view my resumé [here]('/Users/hayden/Library/Mobile Documents/com~apple~CloudDocs/Hayden/Resume/Resume_2026_Mar_CompE.pdf')
+My name is Hayden Berry. I graduated in May 2025 from Lipscomb University with a B.S. in Computer Engineering. You can view my resumé [here](/Users/hayden/Library/Mobile Documents/com~apple~CloudDocs/Hayden/Resume/Resume_2026_Mar_CompE.pdf)
 # Self-study Projects
 ## Currently working on...
 - Contributing to open source projects here on github

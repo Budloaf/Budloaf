@@ -1,4 +1,4 @@
-# Who am I?
+# About Me
 My name is Hayden Berry. I graduated in May 2025 from Lipscomb University with a B.S. in Computer Engineering. If you'd like to view my resumé, [send me a LinkedIn message](https://www.linkedin.com/in/hayden-berry/).
 # Self-study Projects
 ## Currently working on...

@@ -1,7 +1,9 @@
+# Self-study Projects
 ## Currently working on...
 - Contributing to open source projects here on github
 - Learning RISC-V assembly, architecture, etc.
   - Linux Foundation course LFD114: **Porting Software to RISC-V**
+- Learning German (currently B1-B2) 🇦🇹
 ## Up next...
 - RISC-V
   - Complete Linux foundation course LFD123: **Open Source RT-Thread RTOS on RISC-V**

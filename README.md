@@ -1,12 +1,12 @@
 ## Currently working on...
 - Contributing to open source projects here on github
 - Learning RISC-V assembly, architecture, etc.
-  -- Linux Foundation course LFD114: **Porting Software to RISC-V**
+  - Linux Foundation course LFD114: **Porting Software to RISC-V**
 ## Up next...
 - RISC-V
-  -- Complete Linux foundation course LFD123: **Open Source RT-Thread RTOS on RISC-V**
-  -- Complete Linux foundation course LFD210: **Fundamentals of RISC-V**
-  -- Acquire Certification: **RISC-V Foundational Associate**
+  - Complete Linux foundation course LFD123: **Open Source RT-Thread RTOS on RISC-V**
+  - Complete Linux foundation course LFD210: **Fundamentals of RISC-V**
+  - Acquire Certification: **RISC-V Foundational Associate**
 ## Recently completed...
 - Reading the Linux Command Line by William E. Shotts Jr.
 

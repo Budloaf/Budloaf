@@ -1,5 +1,5 @@
 # About Me
-My name is Hayden Berry. I graduated in May 2025 from Lipscomb University with a B.S. in Computer Engineering. If you'd like to view my resumé, [send me a LinkedIn message](https://www.linkedin.com/in/hayden-berry/).
+I graduated in May 2025 from Lipscomb University with a B.S. in Computer Engineering. Some of my interests include embedded systems, computer architecture, assembly language, compiler construction, open-source software, digital signal processing, Linux, music, language learning, literature, board games, and coffee. If you'd like to view my resumé, [send me a LinkedIn message](https://www.linkedin.com/in/hayden-berry/).
 # Self-study Projects
 ## Currently working on...
 - Contributing to open source projects here on github

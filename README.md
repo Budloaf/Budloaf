@@ -4,18 +4,18 @@ I graduated in May 2025 from Lipscomb University with a B.S. in Computer Enginee
 ## Currently working on...
 - Contributing to open source projects here on github
 - Learning RISC-V assembly, architecture, etc.
-  - Auditing LFD114 (free Linux Foundation course): **Porting Software to RISC-V**
+- Auditing LFD114 (free Linux Foundation course): **Porting Software to RISC-V**
 - Learning German (currently B1-B2) 🇦🇹
 ## Up next...
 - RISC-V
   - Complete LFD123: **Open Source RT-Thread RTOS on RISC-V**
-  - Complete LFD210: **Fundamentals of RISC-V**
-  - Acquire Certification: **RISC-V Foundational Associate**
-## Recently completed...
-- Reading the Linux Command Line by William E. Shotts Jr.
-- Auditing LFD117x: **Foundations of RISC-V Assembly Programming**
-- Auditing LFD110: **Introduction to RISC-V**
-
+  - 
+## Recently...
+- Received **RVFA** certification
+- Completed LFD210: **RISC-V Fundamentals** 
+- Audited LFD117x: **Foundations of RISC-V Assembly Programming**
+- Audited LFD110: **Introduction to RISC-V**
+- Read the Linux Command Line by William E. Shotts Jr.
 
 <!--
 **Budloaf/Budloaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

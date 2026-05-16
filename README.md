@@ -5,11 +5,10 @@ I graduated in May 2025 from Lipscomb University with a B.S. in Computer Enginee
 - Contributing to open source projects here on github
 - Learning RISC-V assembly, architecture, etc.
 - Auditing LFD114 (free Linux Foundation course): **Porting Software to RISC-V**
-- Learning German (currently B1-B2) 🇦🇹
+- Learning German (currently B1-B2)
 ## Up next...
 - RISC-V
   - Complete LFD123: **Open Source RT-Thread RTOS on RISC-V**
-  - 
 ## Recently...
 - Received **RVFA** certification
 - Completed LFD210: **RISC-V Fundamentals** 

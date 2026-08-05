@@ -2,15 +2,14 @@
 I graduated in May 2025 from Lipscomb University with a B.S. in Computer Engineering. Some of my interests include embedded systems, computer architecture, assembly language, compiler construction, open-source software, digital signal processing, Linux, music, language learning, literature, board games, and coffee. If you'd like to view my resumé, [send me a LinkedIn message](https://www.linkedin.com/in/hayden-berry/).
 # Self-study Projects
 ## Currently working on...
-- Contributing to open source projects here on github
-- Learning RISC-V assembly, architecture, etc.
-- Auditing LFD114 (free Linux Foundation course): **Porting Software to RISC-V**
 - Learning Zephyr RTOS concepts
+- Contributing to open source projects
+- Expanding Linux + GNOME setup
 - Learning German (currently B1-B2)
+- Reading The C Programming Language by K&R
 ## Up next...
-- RISC-V
-  - Complete LFD123: **Open Source RT-Thread RTOS on RISC-V**
-  - Complete German B2 certification exam
+- Learn about writing device drivers for Linux.
+- Complete German B2 certification exam
 ## Recently...
 - Received **RVFA** certification
 - Completed LFD210: **RISC-V Fundamentals** 
